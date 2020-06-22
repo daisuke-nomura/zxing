@@ -42,9 +42,9 @@
               android:layout_gravity="center_vertical"
               android:gravity="center"
               android:textColor="@color/contents_text"
-              android:paddingRight="8dip"
-              android:paddingTop="8dip"
-              android:paddingBottom="8dip"
+              android:paddingRight="8dp"
+              android:paddingTop="8dp"
+              android:paddingBottom="8dp"
               android:textIsSelectable="true"/>
 
   </ScrollView>
