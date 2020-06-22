@@ -43,7 +43,7 @@
         android:layout_weight="1"
         android:scaleType="center"
         android:src="@drawable/share_via_barcode"
-        android:paddingRight="24dp"
+        android:paddingEnd="24dp"
         tools:ignore="ContentDescription"/>
 
     <LinearLayout
